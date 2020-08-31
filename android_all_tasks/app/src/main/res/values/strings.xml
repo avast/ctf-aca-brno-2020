@@ -1,0 +1,5 @@
+<resources>
+    <string name="secret_api_key">avastCTF{ANDROID_STRINGS_XRn4kyrszP5K}</string>
+    <string name="app_name">AvastAdventure</string>
+    <string name="onboarding_title">Avast Adventure</string>
+</resources>
