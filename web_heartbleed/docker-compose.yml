@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  vulnerable-webserver:
+    build:
+      context: ./docker/server/
+      dockerfile: Dockerfile
+    ports:
+        - 443:443
+  polling-utility:
+    build:
+      context: ./docker/poller/
+      dockerfile: Dockerfile
