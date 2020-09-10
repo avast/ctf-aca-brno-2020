@@ -7,7 +7,7 @@ We have information that you received a tag with super secret data. It should be
 
 ## Solution
 
-Each participant obtained a badge with NFC tag NTAG216 in it. Flag was inserted between random chars with a pattern of PI number ( 3141592653589793238462... ), splitted to 3 or 4 chunks (depends on team), base64 encoded and written to NFC tag. By reversing this process, the team could obtain a flag. 
+Each participant obtained a badge with NFC tag NTAG216 in it. Flag was inserted between random chars with a pattern of PI number ( 3141592653589793238462... ), split to 3 or 4 chunks (based on number of team members), base64 encoded and written to NFC tag. By reversing this process, the team could obtain a flag. 
 
 ---
 
